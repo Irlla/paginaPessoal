@@ -171,7 +171,7 @@ a:hover {
 
 @media (min-width: 600px) {
     .sobre .avatar {
-        clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+        clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
         float: right;
     }
 }
